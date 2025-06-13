@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <h1>✨ Crafting Code, Creating Impact — 🚀 Galib's Dev Journey 💻</h1>
 <p>👨‍💻 Software Engineer passionate about Python 🐍 and Rust 🦀, with a keen interest in AI 🤖 and machine learning 📊. Skilled in building scalable, secure applications 🔒 and integrating intelligent solutions 💡 to solve real-world problems 🌍. Experienced in full-stack development 🎨⚙️, crafting clean frontend interfaces, and designing robust backend systems. Lifelong learner 📚 dedicated to writing elegant, efficient code ✨ and turning innovative ideas 🚀 into impactful technology.</p>
 <h2>🚀 Languages and Tools I Use</h2>
