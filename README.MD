@@ -57,8 +57,14 @@
 <a href="https://appwrite.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
 </a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
+</a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://www.continuum.io/anaconda" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/>
 </a>
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
@@ -78,17 +84,23 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/>
+</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </a>
 <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/>
@@ -99,8 +111,17 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
+</a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+</a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -138,6 +159,9 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </a>
+<a href="https://qt.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
@@ -147,11 +171,17 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 </a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+</a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+<a href="https://www.openssh.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
