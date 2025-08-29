@@ -182,7 +182,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syaagalib&show_icons=true&locale=en" alt="syaagalib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syaagalib&" alt="syaagalib" /></p>
+  <img src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
