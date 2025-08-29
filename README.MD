@@ -61,7 +61,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -221,6 +220,11 @@
 
 ###
 
+
+<h3 align="left">🔥   My Stats :</h3>
+
+
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib" width="41%"/></p>
 <p><img align="center" src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" width="56%"/></p>
