@@ -178,8 +178,8 @@
 
 ###
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib top languages" width="50%" />
-    <img align="right" src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" alt="streak graph" width="50%" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib top languages" width="49%" />
+    <img align="right" src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" alt="streak graph" width="49%" />
 </div>
 
 <div align="center">
