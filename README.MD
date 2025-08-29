@@ -177,16 +177,10 @@
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
 ###
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib top languages" height="220" />
-        </td>
-        <td>
-            <img src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" alt="streak graph" height="220" />
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib top languages" width="50%" />
+    <img src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" alt="streak graph" width="50%" />
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=syaagalib&show_icons=true&locale=en" alt="syaagalib stats" width="100%" />
