@@ -181,8 +181,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syaagalib&show_icons=true&locale=en" alt="syaagalib" /></p>
-
-  <img src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p>  <img src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</p>
 </div>
 
 ###
