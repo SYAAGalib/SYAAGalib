@@ -234,7 +234,7 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib" width="43%"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=syaagalib&show_icons=true&locale=en" alt="syaagalib stats" width="54%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib" width="42%"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=syaagalib&show_icons=true&locale=en" alt="syaagalib stats" width="55%" /></p>
 
 
