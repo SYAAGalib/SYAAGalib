@@ -233,11 +233,9 @@
 
 
 ###
-![SYAAGalib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYAAGalib&theme=default&show_icons=true&hide_border=false&layout=compact)
-![SYAAGalib's Stats](https://github-readme-stats.vercel.app/api?username=SYAAGalib&theme=default&show_icons=true&hide_border=false&count_private=true)
-![SYAAGalib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SYAAGalib&theme=default&hide_border=false)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib" width="41%"/></p>
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SYAAGalib&short_numbers=true" alt="GitHub Streak" width="56%"/></a> </p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=syaagalib&show_icons=true&locale=en" alt="syaagalib stats" width="56%" /></p>
 
 ###
 
