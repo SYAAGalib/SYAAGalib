@@ -235,7 +235,7 @@
 ###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syaagalib&show_icons=true&locale=en&layout=compact" alt="syaagalib" width="41%"/></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=SYAAGalib&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" width="56%"/></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SYAAGalib&short_numbers=true" alt="GitHub Streak" width="56%"/></a></p>
 
 ###
 
