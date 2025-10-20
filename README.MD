@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm SK. Yeasin Ahsanullah Al Galib from Khulna, Bangladesh<br><br>- 🔭 I’m working as Junior Software Engineer at PieBD<br>- 📚 I'm currently learning Machine Learning and AI Integration Automation<br>- ⚡ In my free time I watch and learn new technology on YouTube. It is my of my hobby.</p>
+<p align="left">I'm SK. Yeasin Ahsanullah Al Galib from Khulna, Bangladesh<br><br>- 🔭 I’m working as Chief Executive of Intelleeo<br>- 📚 I'm currently learning Machine Learning and AI Integration Automation<br>- ⚡ In my free time I watch and learn new technology on YouTube. It is my of my hobby.</p>
 
 ###
 
